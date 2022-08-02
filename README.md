@@ -1,2 +1,2 @@
 # web-gus-makruf
-contoh isi deskripsi
+contoh isi deskripsi edit
